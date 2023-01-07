@@ -1,7 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ikura-hamu/ikura-hamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## いくら・はむ / ikura-hamu
+- Tokyo Institute of Technology
+  - School of Engineering
+  - [Digital Creators' Club traP](trap.jp)
+
+### Learning
+- go
+- Unity
 
 Here are some ideas to get you started:
 
