@@ -10,24 +10,31 @@
 - Unity
 - Springin'
 
+- - -
+
 ### 制作物
-- traP Collection(バックエンド)
-  - サークル内ゲームランチャー
-  - リポジトリ　https://github.com/traPtitech/trap-collection-server
 
-- Small and Large
-  - Unity製3Dゲーム
-  - ブログ　https://trap.jp/post/1718/
+#### traP Collection(バックエンド)
+- サークル内ゲームランチャー
+- Go
+- リポジトリ　https://github.com/traPtitech/trap-collection-server
 
-- Root Shooter
-  - Unity製オンライン2Dゲーム
-  - ブログ　https://trap.jp/post/1746/
+#### Small and Large
+- Unity製3Dゲーム
+- ブログ　https://trap.jp/post/1718/
 
-- stamQ(バックエンド)
-  - 文字画像生成ツール
-  - リポジトリ　https://github.com/hackathon-22-spring-14/hackathon-22-spring-14-backend
-  - ブログ　https://trap.jp/post/1617/
-  - サイト　https://hackathon-22-spring-14.github.io/stamQ/
+#### Root Shooter
+- Unity製オンライン2Dゲーム
+- ブログ　https://trap.jp/post/1746/
+
+#### stamQ(バックエンド)
+- 文字画像生成ツール
+- Go
+- リポジトリ　https://github.com/hackathon-22-spring-14/hackathon-22-spring-14-backend
+- ブログ　https://trap.jp/post/1617/
+- サイト　https://hackathon-22-spring-14.github.io/stamQ/
+
+- - -
 
 ### ブログ
 - サークル　https://trap.jp/author/ikura-hamu
