@@ -3,7 +3,7 @@
 ## いくら・はむ / ikura-hamu
 
 - 東京工業大学 Tokyo Institute of Technology
-  - 工学院1年　School of Engineering
+  - 工学院情報通信系 2年　School of Engineering, Department of Information and Communications Engineering
   - デジタル創作同好会traP　Digital Creators' Club traP https://trap.jp
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikura-hamu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
