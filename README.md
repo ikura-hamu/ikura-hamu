@@ -2,6 +2,8 @@
 
 ## いくら・はむ / ikura-hamu
 
+<img src="https://q.trap.jp/api/v3/public/icon/ikura-hamu" height=50> <strong>Please visit my website! <a href="https://portfolio.ikura-hamu.work">https://portfolio.ikura-hamu.work</a> </strong>
+
 - 東京工業大学 Tokyo Institute of Technology
   - 工学院情報通信系 2年　School of Engineering, Department of Information and Communications Engineering
   - デジタル創作同好会traP　Digital Creators' Club traP https://trap.jp
@@ -19,34 +21,6 @@
 - Go
 - Unity
 - Springin'
-
-- - -
-
-### 制作物
-
-#### traP Collection(バックエンド)
-
-- サークル内ゲームランチャー
-- Go
-- リポジトリ　https://github.com/traPtitech/trap-collection-server
-
-#### Small and Large
-
-- Unity製3Dゲーム
-- ブログ　https://trap.jp/post/1718/
-
-#### Root Shooter
-
-- Unity製オンライン2Dゲーム
-- ブログ　https://trap.jp/post/1746/
-
-#### stamQ(バックエンド)
-
-- 文字画像生成ツール
-- Go
-- リポジトリ　https://github.com/hackathon-22-spring-14/hackathon-22-spring-14-backend
-- ブログ　https://trap.jp/post/1617/
-- サイト　https://hackathon-22-spring-14.github.io/stamQ/
 
 - - -
 
