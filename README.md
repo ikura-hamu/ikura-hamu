@@ -27,3 +27,7 @@
 ### ブログ
 
 - サークル　https://trap.jp/author/ikura-hamu
+
+### スライド
+
+- https://ikura-hamu.github.io/slides
