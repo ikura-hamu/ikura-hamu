@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<iframe src="https://ikura-hamu.com" />
+
 ## いくら・はむ / ikura-hamu
 
 <img src="https://q.trap.jp/api/v3/public/icon/ikura-hamu" height=50> <strong>Please visit my website! <a href="https://portfolio.ikura-hamu.work">https://portfolio.ikura-hamu.work</a> </strong>
@@ -16,9 +18,10 @@
 <img height=170 src="https://github-readme-stats.vercel.app/api?username=ikura-hamu&show_icons=true&count_private=true&theme=tokyonight">
 </a>
 
-### Learning
+### 技術
 
 - Go
+- Puthon
 - Unity
 - Springin'
 
