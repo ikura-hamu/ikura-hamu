@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<iframe src="https://ikura-hamu.com" />
+<iframe src="https://ikura-hamu.com"></iframe>
 
 ## いくら・はむ / ikura-hamu
 
