@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<iframe src="https://ikura-hamu.com"></iframe>
-
 ## いくら・はむ / ikura-hamu
 
 <img src="https://q.trap.jp/api/v3/public/icon/ikura-hamu" height=50> <strong>Please visit my website! <a href="https://portfolio.ikura-hamu.work">https://portfolio.ikura-hamu.work</a> </strong>
@@ -21,7 +19,7 @@
 ### 技術
 
 - Go
-- Puthon
+- Python
 - Unity
 - Springin'
 
