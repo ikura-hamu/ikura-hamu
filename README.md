@@ -4,7 +4,7 @@
 
 <img src="https://q.trap.jp/api/v3/public/icon/ikura-hamu" height=50> <strong>Please visit my website! <a href="https://portfolio.ikura-hamu.work">https://portfolio.ikura-hamu.work</a> </strong>
 
-- 東京工業大学 Tokyo Institute of Technology
+- 東京科学大学 Institute of Science, Tokyo
   - 工学院情報通信系 3年　School of Engineering, Department of Information and Communications Engineering
   - デジタル創作同好会traP　Digital Creators' Club traP https://trap.jp
 
