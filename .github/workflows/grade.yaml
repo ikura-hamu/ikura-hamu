@@ -1,0 +1,23 @@
+name: grade
+
+on:
+  schedule:
+    - cron: "0 0 1 4 *"
+  workflow_dispatch:
+
+jobs:
+  edit:
+    runs-on: ubuntu-latest
+    steps:
+      - use: actions/checkout@v4
+
+      - run: sed -i s/3/4 README.md
+
+      - run: |
+          git config.name ikura-hamu && \
+          git config.user email action@github.com && \
+          git switch -c grade && \
+          git add . && git commit -m grade && \
+          git push && \
+          gh pr new --full
+        name: PR
