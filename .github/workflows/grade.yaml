@@ -5,6 +5,9 @@ on:
     - cron: "0 0 1 4 *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   edit:
     runs-on: ubuntu-latest
@@ -14,7 +17,7 @@ jobs:
       - run: sed -i 's/3年/4年/' README.md
 
       - run: |
-          git config.name ikura-hamu && \
+          git config.username ikura-hamu && \
           git config.user email action@github.com && \
           git switch -c grade && \
           git add . && git commit -m grade && \
