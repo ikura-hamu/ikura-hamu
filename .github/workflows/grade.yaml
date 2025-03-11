@@ -22,5 +22,5 @@ jobs:
           git switch -c grade && \
           git add . && git commit -m grade && \
           git push -u origin grade && \
-          gh pr new --full
+          gh pr new --fill
         name: PR
