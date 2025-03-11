@@ -17,8 +17,8 @@ jobs:
       - run: sed -i 's/3年/4年/' README.md
 
       - run: |
-          git config.username ikura-hamu && \
-          git config.user email action@github.com && \
+          git config user.name ikura-hamu && \
+          git config user.email action@github.com && \
           git switch -c grade && \
           git add . && git commit -m grade && \
           git push && \
