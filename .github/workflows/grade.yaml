@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: sed -i s/3/4 README.md
+      - run: sed -i 's/3年/4年/' README.md
 
       - run: |
           git config.name ikura-hamu && \
