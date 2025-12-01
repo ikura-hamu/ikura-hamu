@@ -28,7 +28,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ikura-hamu&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikura-hamu&layout=compact&theme=tokyonight">
+<img height=170 src="https://github-readme-stats-nine-livid-45.vercel.app/api/top-langs/?username=ikura-hamu&layout=compact&theme=tokyonight&stats_format=bytes">
 
-<img height=170 src="https://github-readme-stats.vercel.app/api?username=ikura-hamu&show_icons=true&count_private=true&theme=tokyonight">
+<img height=170 src="https://github-readme-stats-nine-livid-45.vercel.app/api?username=ikura-hamu&show_icons=true&count_private=true&theme=tokyonight">
 </a>
