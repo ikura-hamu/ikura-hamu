@@ -5,7 +5,7 @@
 🔗 **https://ikura-hamu.work**
 
 - 東京科学大学 / Institute of Science Tokyo
-  - 工学院情報通信系 4年 / School of Engineering, Department of Information and Communications Engineering
+  - 工学院情報通信系 修士 1 年 / School of Engineering, Department of Information and Communications Engineering M1
   - [デジタル創作同好会traP / Digital Creators' Club traP](https://trap.jp)
 
 ### 技術 / Tech
